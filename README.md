@@ -1,2 +1,2 @@
-# movie-star-landing
+# Movie Star
 Movie Star landing page.
